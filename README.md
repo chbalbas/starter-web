@@ -7,4 +7,4 @@ Esto es el proposito
 ## Deployment
 Esto el despliegue
 ### How To Contribute
-Una ayudita por favor
+Una ayudita por favor, Gracias
