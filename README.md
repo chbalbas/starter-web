@@ -8,5 +8,6 @@ Esto es el proposito
 Esto el despliegue
 ### How To Contribute
 Una ayudita por favor, Gracias.
+Fork this repository and create a pull request.
 
 CR
